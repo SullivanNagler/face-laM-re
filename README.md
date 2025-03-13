@@ -5,8 +5,9 @@
 - modèle 3D en 3MF du potentiomètre de retour
 - code arduino .ino
 # librairie et gestion de carte sur arduino IDE (à suivre dans l’ordre) 
-- https://github.com/jostlowe/Pico-DMX
-- https://github.com/arduino-libraries/ArduinoDMX
+## librairie
+- Pico-DMX : https://github.com/jostlowe/Pico-DMX
+- ArduinoDMX : https://github.com/arduino-libraries/ArduinoDMX
 ## gestion des cartes
 - paramètre -> url de gestionnaire de carte supplémentaire
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
