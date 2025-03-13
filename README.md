@@ -1,5 +1,6 @@
 # contenu du git
-- lien schematique et PCB
+- lien schematique et PCB :
+  - [https://oshwlab.com/sulli.nagler/dmx-rp2040-pico-board-for-2-motors](https://oshwlab.com/sulli.nagler/dmx-rp2040-pico-board-for-2-motors)
 - histoirique des modifications physique et logiciel
 - modèle 3D en 3MF du potentiomètre de retour
 - code arduino .ino
