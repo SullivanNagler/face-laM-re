@@ -32,6 +32,25 @@ https://docs.rs-online.com/c4ad/0900766b8169acb1.pdf
   2. loin jardin module 1 (boitié corrrespondant)
 3. moteur 1 face cours (gros) : bruit différent de l’original mais pas anormal (avec boitier 4 face cours)
 4. changer l’allimentation 24V 3A du kit de dépanage pour une 24V 6A aliexpress (ou 24V 4A de meanwell)
-
+#### liste des cartes flashé avec le code
+flashé
+- 1
+ DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
+- 2
+ DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
+- 3
+ DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
+- 4
+ DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
+- 5
+ DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
+- A
+ DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
+non flashé
+- 6
+- 7
+- 8
+- 9
+- B
 # Heures travail Sullivan NAGLER 
 arrivée 10h25 le 13_03_2025
