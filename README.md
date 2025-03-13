@@ -19,9 +19,11 @@ https://docs.rs-online.com/c4ad/0900766b8169acb1.pdf
   - position basse, ne passe pas par celle ci et utilise le régulateur 5V->3.3V du circuit imprimé (et non celui du RSB PICO)
 
 ### liste des problèmes du 13_03_2025
-1. moteur 1 face jardin (gros) : fait un bruit anormal (avec boitier 5 unité de remplacement)
-2. moteur 1 face cours (gros) : bruit différent de l’original mais pas anormal (avec boitier 4 face cours)
-3. changer l’allimentation 24V 3A du kit de dépanage pour une 24V 6A aliexpress (ou 24V 4A de meanwell)
+1. moteur 1  fait un bruit anormal (comme une difficulté 
+  1. face jardin  (avec boitier 5 unité de remplacement)
+  2. loin jardin module 1 (boitié corrrespondant)
+3. moteur 1 face cours (gros) : bruit différent de l’original mais pas anormal (avec boitier 4 face cours)
+4. changer l’allimentation 24V 3A du kit de dépanage pour une 24V 6A aliexpress (ou 24V 4A de meanwell)
 
 # Heures travail Sullivan NAGLER 
 arrivée 10h25 le 13_03_2025
