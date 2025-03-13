@@ -1,10 +1,17 @@
+# contenu du git
+- lien schematique et PCB
+- histoirique des modifications physique et logiciel
+- modèle 3D en 3MF du potentiomètre de retour
+- code arduino .ino
 # librairie arduino :
 - https://github.com/jostlowe/Pico-DMX
 - https://github.com/arduino-libraries/ArduinoDMX
-paramètre -> url de gestionnaire de carte supplémentaire
+## gestion des cartes
+- paramètre -> url de gestionnaire de carte supplémentaire
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
-modèle 3D en 3MF et code arduino ci-joint
-
+OU
+- gestionnaire de cartes :
+  - https://github.com/earlephilhower/arduino-pico
 # Hardware
 ### Module potentiomètre :
 https://fr.rs-online.com/web/p/codeurs/8427197P
