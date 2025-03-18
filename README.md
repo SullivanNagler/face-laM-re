@@ -30,7 +30,7 @@ https://docs.rs-online.com/c4ad/0900766b8169acb1.pdf
 face jardin déconne
 1. moteur 1  fait un bruit anormal (comme une difficulté 
   1. face jardin  (avec boitier 5 unité de remplacement)
-  2. loin jardin module 1 (boitié corrrespondant)
+  2. loin jardin module 1 (boitié correspondant)
 3. moteur 1 face cours (gros) : bruit différent de l’original mais pas anormal (avec boitier 4 face cours)
 4. changer l’allimentation 24V 3A du kit de dépanage pour une 24V 6A aliexpress (ou 24V 4A de meanwell)
 #### liste des cartes flashé avec le code
