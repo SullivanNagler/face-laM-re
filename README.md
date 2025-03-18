@@ -27,6 +27,7 @@ https://docs.rs-online.com/c4ad/0900766b8169acb1.pdf
   - position basse, ne passe pas par celle ci et utilise le régulateur 5V->3.3V du circuit imprimé (et non celui du RSB PICO)
 
 ### liste des problèmes du 13_03_2025
+face jardin déconne
 1. moteur 1  fait un bruit anormal (comme une difficulté 
   1. face jardin  (avec boitier 5 unité de remplacement)
   2. loin jardin module 1 (boitié corrrespondant)
