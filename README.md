@@ -33,6 +33,8 @@ face jardin déconne
   2. loin jardin module 1 (boitié correspondant)
 3. moteur 1 face cours (gros) : bruit différent de l’original mais pas anormal (avec boitier 4 face cours)
 4. changer l’allimentation 24V 3A du kit de dépanage pour une 24V 6A aliexpress (ou 24V 4A de meanwell)
+### Debug
+la valeur dmx compte depuis 0 donc 24 est en position 25 pour le patch
 #### liste des cartes flashé avec le code
 ##### flashé d’origine
 - CRAMÉ ? 1
