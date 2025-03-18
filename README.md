@@ -34,7 +34,7 @@ https://docs.rs-online.com/c4ad/0900766b8169acb1.pdf
 4. changer l’allimentation 24V 3A du kit de dépanage pour une 24V 6A aliexpress (ou 24V 4A de meanwell)
 #### liste des cartes flashé avec le code
 ##### flashé d’origine
-- 1
+- CRAMÉ ? 1
  DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
 - 2
  DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
@@ -47,7 +47,7 @@ https://docs.rs-online.com/c4ad/0900766b8169acb1.pdf
 - A
  DMX -1  R1 0  Max 0  Min 0  pwmIn 0  pwmOut 49  pwm 0  MX 0  HS 0 Inv 0 vit 28500 pFix 1000 R2 0  Min 0  Max 0  pwmIn 0 pwmOut 49  pwm 0  MX 0 HS 0 Inv 0 vit 20000 pFix 1001
 ##### flashé le 13 03 2025
-- 6
+- 6 CRAMÉ ?
 - 7
 - 8
 - 9
