@@ -53,6 +53,7 @@ face jardin déconne
 - 8
 - 9
 - B
-# Heures travail Sullivan NAGLER 
-arrivée 10h25 le 13_03_2025
-pause midi à 12h
+## protocole débugage matériel
+1. test allimentations (24V, 5V, 3.3V, li-ions, oscilloscope)
+2. test driver
+3. 
